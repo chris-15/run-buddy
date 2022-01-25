@@ -12,3 +12,5 @@ https://chris-15.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Chris Sarmiento-Salas
+
+### ©️2019 Run Buddy, Inc
